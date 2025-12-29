@@ -1,0 +1,26 @@
+asdlkjflkjasdflasldkfljkasdkljfdon't()mul(1,700)do()afjjsdfmul(1,100)aslkdjflskdon't()do()sfhasdf2334mul(1,500)23dsdf
+)+when())~why(),),mul(712,171)@}-?}mul(506,85)who()%mul(613,601)&$841,862)when()(%!mul(922,272)^;}mul(593,223)mul(918,232)mul(760,145)]^?why()>mul(558,476)where()who()&do()^]($,~&-{where()mul(855,134),(--{mul(691,389)+mul(352,712)why()<(]'/}-mul(138,405)$where(),481)who();&[:mul(308,96)mul(909)swho()])]*don't()who()select()^;,@mul(837,399)$(,(-who()}'mul(835,602)~:]mul(99,872)how()what()<select()how()(don't()[[@, ,mul(962,879)who()])mul(828,134)$where()when())>%{who(794,618)>mul(227,398)why()where()-why()what()^/:; mul(753,183)[{ ]#^#%%~mul(196,63)}%don't()who()$ :how(),select()~@mul(214,483),:select()%)}who()mul(198,36)*do()what()mul(330,804)what():+>mul(10,447)*/!mul(580,733):&where()'mul(247,9)$)[:#-select()?do()mul(157,768)why()/ who()$from()where()do
+
+
+END END END
+
+"""
+)+when())~why(),),mul(712,171)@}-?}mul(506,85)who()%mul(613,601)&$841,862)when()(%!mul(922,272)^;}mul(593,223)mul(918,232)mul(760,145)]^?why()>mul(558,476)where()who()&
+do()^]($,~&-{where()mul(855,134),(--{mul(691,389)+mul(352,712)why()<(]'/}-mul(138,405)$where(),481)who();&[:mul(308,96)mul(909)swho()])]*
+don't()who()select()^;,@mul(837,399)$(,(-who()}'mul(835,602)~:]mul(99,872)how()what()<select()how()(
+don't()[[@, ,mul(962,879)who()])mul(828,134)$where()when())>%{who(794,618)>mul(227,398)why()where()-why()what()^/:; mul(753,183)[{ ]#^#%%~mul(196,63)}%
+don't()who()$ :how(),select()~@mul(214,483),:select()%)}who()mul(198,36)*
+do()what()mul(330,804)what():+>mul(10,447)*/!mul(580,733):&where()'mul(247,9)$)[:#-select()?
+do()mul(157,768)why()/ who()$from()where()do
+"""
+
+// MATH
+712*171 + 506*85 + 613*601 + 922*272 + 593*223 + 918*232 + 760*145 + 558*476
+855*134 + 691*389 + 352*712 + 138*405 + 308*96
+=== 2224433
+
+330*804 + 10*447 + 580*733 + 247*9
+157*768
+=== 817729
+
+['712,171', '506,85', '613,601', '922,272', '593,223', '918,232', '760,145', '558,476', '855,134', '691,389', '352,712', '138,405', '308,96']
